@@ -18,7 +18,7 @@ public class ConcreteSuject extends Subject{
 	public void setSubjectStats(String subjectStats) {
 		this.subjectStats = subjectStats;
 		//状态发生了改变, 通知各个观察者
-		this.notifyObservers();
+		//this.notifyObservers();
 	}
 	
 	

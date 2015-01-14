@@ -19,10 +19,10 @@ public class Client {
 		observer1.setName("张三");
 		
 		ConcreteObserver observer2 = new ConcreteObserver();
-		observer1.setName("李四");
+		observer2.setName("李四");
 		
 		ConcreteObserver observer3 = new ConcreteObserver();
-		observer1.setName("王五");
+		observer3.setName("王五");
 		
 		//创建目标对象
 		ConcreteSuject subject = new ConcreteSuject();
