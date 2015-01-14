@@ -1,0 +1,2 @@
+这里使用了jdk提供的接口,在java.util包里面有一个雷Observable: 实现了我们需要的目标的功能.
+ 还有一个接口 Observer, 其中定义了update的方法, 就是观察者的接口.
