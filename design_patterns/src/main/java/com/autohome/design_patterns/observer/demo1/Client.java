@@ -1,5 +1,11 @@
 package com.autohome.design_patterns.observer.demo1;
 
+
+
+
+import com.autohome.design_patterns.observer.demo1.ConcreteObserver;
+import com.autohome.design_patterns.observer.demo1.ConcreteSuject;
+
 /**
  * 测试类
  * @author nxcjh
